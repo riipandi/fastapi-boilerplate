@@ -1,0 +1,15 @@
+Pipfile.lock
+Thumbs.db
+.DS_Store
+.DS_Store?
+.Trashes
+*.sqlite
+.env.production
+.env.staging
+.env.testing
+.env
+
+# Extras
+requirements.txt
+.devnotes.txt
+.ascii-art
